@@ -1,0 +1,16 @@
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/drivenAdapters/repositories/AccountRepository.java
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/drivenAdapters/useCases/errorUseCases/SaveErrorUseCase.java
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/models/Account.java
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/models/ErrorRabbit.java
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/drivenAdapters/repositories/ErrorRepository.java
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/HomeBankingQueueApplication.java
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/drivenAdapters/useCases/transactionUseCases/SaveTransactionUseCase.java
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/models/Client.java
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/drivenAdapters/repositories/TransactionRepository.java
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/handlers/bus/RabbitMqMessageConsumer.java
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/models/Transaction.java
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/drivenAdapters/repositories/ClientRepository.java
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/dtos/AccountDto.java
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/drivenAdapters/useCases/accountUseCases/SaveAccountUseCase.java
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/drivenAdapters/useCases/clientUseCases/SaveClientUseCase.java
+/home/lmaestre/workspaces_intellij/queue-consumer/src/main/java/com/reactive/homebanking/configs/RabbitConfig.java
